@@ -4,5 +4,5 @@ export const connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: '',
-    database: 'nlw'
+    database: 'nodeapi'
 });
